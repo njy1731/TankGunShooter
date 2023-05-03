@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BarrelCtrl : MonoBehaviour
 {
-    //public float speed = 10f;           // 투사체 속도
+    //public float speed = 10f;        // 투사체 속도
     public float maxDistance = 5f;     // 투사체 최대 이동 거리
 
     public ParticleSystem fireEffect;
